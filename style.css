@@ -1,0 +1,177 @@
+﻿body {
+	background: #000000 url(images/stars.gif) repeat fixed;
+	color: #FFFFFF;
+	font-family: Tahoma;
+}
+#logo {
+	width: 300px;
+	height: 225px;
+	margin: 0 auto;
+	background: url(images/l1.gif) no-repeat;
+}
+#title {
+	width: 600px;
+	height: 114px;
+	margin: 0 auto;
+	background: url(images/title.gif) no-repeat;
+	padding-top: 5px;	
+}
+p {
+	margin-left: 0px;
+	margin-top: 2px;
+}
+a {
+	text-decoration: underline;
+	color: lime;
+}
+h1 {
+    text-align: center;
+	font-family: Tahoma;
+	font-size: 32px;
+	color: yellow;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;	
+	margin-left: 15px;
+}
+h2 {
+	font-family: Tahoma;
+	font-size: 15px;
+	margin-top: 0;
+	margin-bottom: 0;	
+	margin-left: 15px;
+}
+h3 {
+	font-family: Tahoma;
+	font-size: 13px;
+	margin-top: 0;
+	margin-bottom: 4px;	
+	margin-left: 15px;
+}
+h5 {
+	margin: 0px;
+	padding: 0px;
+	font-size: 10px;
+}
+#container {
+	width: 780px;
+	margin: 15px auto 0 auto;
+}
+#header {
+	width: 780px;
+	text-align: center;
+	margin: 0;
+	position: relative;
+}
+#menu {
+	width: 778px;
+	height: 28px;
+	margin: 0 auto;
+    text-align: center;
+    color: yellow;
+    font-weight: bold;
+	z-index: 100;
+	background: url(images/menu.png) no-repeat;
+	background-position: center;
+	padding-top: 0px;
+	padding-bottom: 10px;
+}
+.menu a{
+	color: yellow;
+	font-family: Tahoma;
+	font-size: 12px;
+    font-weight: bold;
+	text-decoration: none;
+}
+.menu a:hover{
+	color: yellow;
+}
+#dropmenudiv{
+	position:absolute;
+	border:1px solid yellow;
+	border-bottom-width: 1px;
+	font:normal 12px Tahoma;
+    font-weight: bold;
+	line-height:18px;
+	z-index:100;
+}
+
+#dropmenudiv a{
+	width: 100%;
+	display: block;
+	text-indent: 3px;
+	padding: 0px 0;
+    font-weight: bold;
+	text-decoration: none;
+	color: yellow;
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+	background-color: navy;
+	color: yellow;
+}
+#main {
+	width: 780px;
+	margin: 0 auto;
+	z-index: 0;
+}
+#footer {
+	width: 780px;
+	height: 28px;
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+	background: url(images/footer.png) no-repeat;
+	background-position: center;
+	margin-top: 10px;
+	padding-top: 10px;
+	position: absolute;
+}
+#footer a{
+	text-decoration: none;
+	color: aqua;
+}
+#stylemenu {
+	width: auto;
+	height: 20px;
+	float: right;
+	margin: 0 10px;
+	position: absolute;
+	top: 10px; right: 10px;
+	font-family: Tahoma;
+	font-size: 18px;
+}
+#stylemenu a {
+	color: yellow;
+	text-decoration: none;
+}
+#stylemenu ul {
+	list-style: none;
+	width: 150px;
+}
+#stylemenu li ul {
+    display: none;
+	list-style: none;
+}
+#stylemenu li:hover > ul {
+    display: block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#stylemenu ul#nav li ul {
+    display: none;
+	list-style: none;
+}
+#stylemenu ul#nav li:hover > ul {
+    display: block;
+	list-style: none;
+}
+#stylemenu a:hover {
+	background: #000066;
+}
+#stylemenu ul li ul li:hover {
+	width: 150px;
+	background: #000066;
+}
