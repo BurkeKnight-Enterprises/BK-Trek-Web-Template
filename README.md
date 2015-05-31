@@ -1,7 +1,6 @@
 # BK-Trek-Web-Template
 Star Trek  Web Template - With Ship Changer
 
-
 Template Name: Star Trek<br />
 Designer: BurkeKnight<br />
 Date Designed: June 23, 2008<br />
