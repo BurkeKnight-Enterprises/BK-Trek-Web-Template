@@ -1,5 +1,11 @@
 # BK-Trek-Web-Template
-Star Trek  Web Template - With Ship Changer
+Star Trek  Web Template - With Ship Changer<br />
+
+[![Forks](https://img.shields.io/github/forks/BK-Templates/BK-Trek-Web-Template.svg)](https://github.com/BK-Templates/BK-Trek-Web-Template/network)
+[![Stars](https://img.shields.io/github/stars/BK-Templates/BK-Trek-Web-Template.svg)](hhttps://github.com/BK-Templates/BK-Trek-Web-Template/stargazers)
+[![Open Issues](https://img.shields.io/github/issues/BK-Templates/BK-Trek-Web-Template.svg)](https://github.com/BK-Templates/BK-Trek-Web-Template/issues)
+[![Current Release](https://img.shields.io/github/release/BK-Templates/BK-Trek-Web-Template.svg)](https://github.com/BK-Templates/BK-Trek-Web-Template/releases)
+[![License](https://img.shields.io/badge/License-Creative%20Commons%20License-red.svg)](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
 
 Template Name: Star Trek<br />
 Designer: BurkeKnight<br />
