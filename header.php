@@ -24,9 +24,9 @@ top.location.href = document.location.href ;
    <li class='has-sub'><a href='#'><span>Support</span></a>
       <ul>
          <li><a href='http://www.burkeknight.org/' target='_blank'><span>Support System</span></a></li>
-         <li><a href='http://www.burkeknight.com/index.php?page=contact' target='_blank'><span>Contact BurkeKnight Enterprises</span></a></li>
-         <li><a href='http://www.burkeknight.com/index.php?page=terms' target='_blank'><span>Terms of Service</span></a></li>
-         <li class='last'><a href='http://www.burkeknight.com/index.php?page=privacy' target='_blank'><span>Privacy Policy</span></a></li>
+         <li><a href='http://www.burkeknight.com/contact.php' target='_blank'><span>Contact BurkeKnight Enterprises</span></a></li>
+         <li><a href='http://www.burkeknight.com/terms.php' target='_blank'><span>Terms of Service</span></a></li>
+         <li class='last'><a href='http://www.burkeknight.com/privacy.php' target='_blank'><span>Privacy Policy</span></a></li>
       </ul>
    </li>
 <!-- End of suuport menu section. -->
